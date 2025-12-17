@@ -16,5 +16,5 @@ Thumbs.db
 *.log
 npm-debug.log*
 
-# Images folder - DO NOT commit to git (too large, upload to IPFS instead)
-images/
+# Images folder - Temporarily allowing for transfer to container
+# images/
