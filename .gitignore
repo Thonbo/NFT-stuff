@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Generated metadata folder (will be created locally)
+metadata/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Optional: Uncomment if you don't want to track images in git
+# images/
